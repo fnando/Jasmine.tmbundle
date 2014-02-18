@@ -3,7 +3,10 @@
 <plist version="1.0">
 <dict>
 	<key>fileTypes</key>
-	<array/>
+	<array>
+		<string>spec.js</string>
+		<string>_spec.js</string>
+	</array>
 	<key>foldingStartMarker</key>
 	<string>/\*\*|\{\s*$</string>
 	<key>foldingStopMarker</key>
