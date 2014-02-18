@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>expect($1).not.toBeTruthy();$0</string>
+	<key>name</key>
+	<string>not.toBeTruthy</string>
+	<key>scope</key>
+	<string>source.js.jasmine</string>
+	<key>tabTrigger</key>
+	<string>ntbt</string>
+	<key>uuid</key>
+	<string>A4AC4EDA-C34E-41E8-844B-B55E12F80923</string>
+</dict>
+</plist>

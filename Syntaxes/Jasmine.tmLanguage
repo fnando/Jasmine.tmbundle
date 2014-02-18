@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fileTypes</key>
+	<array/>
+	<key>foldingStartMarker</key>
+	<string>/\*\*|\{\s*$</string>
+	<key>foldingStopMarker</key>
+	<string>\*\*/|^\s*\}</string>
+	<key>keyEquivalent</key>
+	<string>^~J</string>
+	<key>name</key>
+	<string>Jasmine</string>
+	<key>patterns</key>
+	<array>
+		<dict>
+			<key>include</key>
+			<string>source.js</string>
+		</dict>
+		<dict>
+			<key>match</key>
+			<string>\b(describe|xdescribe|it|xit|beforeEach|afterEach|expect|spyOn)\b(?=\()</string>
+			<key>name</key>
+			<string>support.function.js.jasmine</string>
+		</dict>
+		<dict>
+			<key>match</key>
+			<string>\b(jasmine|not|and)\b</string>
+			<key>name</key>
+			<string>variable.language.js.jasmine</string>
+		</dict>
+		<dict>
+			<key>match</key>
+			<string>\b(callThrough|callFake|stub|returnValue|throwError)\b(?=\()</string>
+			<key>name</key>
+			<string>support.function.js.jasmine</string>
+		</dict>
+	</array>
+	<key>scopeName</key>
+	<string>source.js.jasmine</string>
+	<key>uuid</key>
+	<string>8FD09527-97D7-48F8-81F2-D25D69ACB079</string>
+</dict>
+</plist>

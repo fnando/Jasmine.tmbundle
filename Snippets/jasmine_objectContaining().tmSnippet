@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>jasmine.objectContaining(${0:object})</string>
+	<key>name</key>
+	<string>jasmine.objectContaining()</string>
+	<key>scope</key>
+	<string>source.js.jasmine</string>
+	<key>tabTrigger</key>
+	<string>joc</string>
+	<key>uuid</key>
+	<string>EF083F32-29B7-485C-A826-6BC6011E4E3D</string>
+</dict>
+</plist>

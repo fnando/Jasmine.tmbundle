@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>spyOn(${1:object}, "${2:function name}").and.returnValue($0);</string>
+	<key>name</key>
+	<string>spyOn.and.returnValue</string>
+	<key>scope</key>
+	<string>source.js.jasmine</string>
+	<key>tabTrigger</key>
+	<string>srv</string>
+	<key>uuid</key>
+	<string>9D82D3C7-0880-4C74-AFB6-52D48FB6B6BF</string>
+</dict>
+</plist>

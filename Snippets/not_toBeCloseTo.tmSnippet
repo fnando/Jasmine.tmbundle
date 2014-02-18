@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>expect($1).not.toBeCloseTo(${2:number}, ${0:delta});</string>
+	<key>name</key>
+	<string>not.toBeCloseTo</string>
+	<key>scope</key>
+	<string>source.js.jasmine</string>
+	<key>tabTrigger</key>
+	<string>ntbct</string>
+	<key>uuid</key>
+	<string>DA3C8BE5-68E8-40A6-A1A8-4CBC07F2B876</string>
+</dict>
+</plist>
