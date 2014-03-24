@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>spyOn(${1:object}, "${2:function name}").and.$0;</string>
+	<string>spyOn(${1:object}, "${2:function name}")${3:.and.}$0;</string>
 	<key>name</key>
 	<string>spyOn</string>
 	<key>scope</key>
