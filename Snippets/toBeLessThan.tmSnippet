@@ -9,7 +9,7 @@
 	<key>scope</key>
 	<string>source.js.jasmine</string>
 	<key>tabTrigger</key>
-	<string>tblt</string>
+	<string>etblt</string>
 	<key>uuid</key>
 	<string>1872AC78-6681-4BFD-AAD9-763448B60F2A</string>
 </dict>
