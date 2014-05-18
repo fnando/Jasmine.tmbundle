@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>jasmine.createSpyObject("${1:spy name}", ["${2:function name}"]);$0</string>
+	<string>jasmine.createSpyObject('${1:spy name}', ['${2:function name}']);$0</string>
 	<key>name</key>
 	<string>jasmine.createSpyObject</string>
 	<key>scope</key>

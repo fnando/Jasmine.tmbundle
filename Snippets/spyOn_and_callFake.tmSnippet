@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>spyOn(${1:object}, "${2:function name}").and.callFake(function(){
+	<string>spyOn(${1:object}, '${2:function name}').and.callFake(function(){
   $0
 });</string>
 	<key>name</key>

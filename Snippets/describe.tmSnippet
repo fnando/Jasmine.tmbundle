@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>describe("$1", function(){
+	<string>describe('$1', function(){
   $0
 });</string>
 	<key>name</key>
